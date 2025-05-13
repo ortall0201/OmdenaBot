@@ -189,7 +189,8 @@ ________________________________________________________________________________
    📬 # **Contact :**
 
    Co Lead of Team1 / Product Owner / Creator of this Repo : Ortalgr@gmail.com
-    Team1 details:
+   
+    - Team1 details:
 ![image](https://github.com/user-attachments/assets/e95dccf7-cc2f-4716-8814-1fb9fbfaaa9f)
 
     
