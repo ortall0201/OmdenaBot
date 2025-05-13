@@ -153,7 +153,11 @@ Use the generated https://xyz.ngrok.io as your public URL.
    ```
    https://ortal.ngrok.io
    ```
-
+  FastAPI can be seen in this URL:
+  ```
+  https://ortal.ngrok.io/docs#/
+  ```
+Note: The ngrok URL's are working only when backend is connected and running on Visual Studio.
 _______________________________________________________________________________________________________
 
    🧠 # **CrewAI Agent System :**
