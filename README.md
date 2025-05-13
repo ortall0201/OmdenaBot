@@ -33,10 +33,11 @@ This repository hosts the OmdenaBot, an AI-powered mental health chatbot develop
 🧠 **POC & Demo's including basic POC code flow :** [Slides](https://docs.google.com/presentation/d/1N9d8wSF8kq7dHhkAIzcT95hkh9LfAEhcETW2mRj32Ag/edit?usp=sharing)
 
 Big **Thank you for Team1's AI engineers** for creating this awesome unified **CrewAI framework based POC** and Demo's : 
-[Anandhu P Raj](https://github.com/ScopeUnderscore)
-[Indumathy Devanathasamy](https://github.com/Indumathyprabu)
-And special **Thank you to my co lead and AI collaborator** [Sundaravadivu Marimuthu](https://github.com/vadivu123)
-**Thank you for all of [Team1's collaborators](https://docs.google.com/spreadsheets/d/1fvcuyDjEVlxoB0DEkqtMN7NQzrMVxCFs/edit?usp=sharing&ouid=108623279518071003366&rtpof=true&sd=true)**
+
+- [Anandhu P Raj](https://github.com/ScopeUnderscore)
+- [Indumathy Devanathasamy](https://github.com/Indumathyprabu)
+- And special **Thank you to my co lead and AI collaborator** [Sundaravadivu Marimuthu](https://github.com/vadivu123)
+- **Thank you for all of [Team1's collaborators](https://docs.google.com/spreadsheets/d/1fvcuyDjEVlxoB0DEkqtMN7NQzrMVxCFs/edit?usp=sharing&ouid=108623279518071003366&rtpof=true&sd=true)**
 
 💼 **Business Question**
 # How can AI be used to deliver early-stage mental health interventions that are scalable, emotionally adaptive, and ethically responsible for users in distress — while enabling insights for professionals without breaching trust or privacy?
